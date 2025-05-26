@@ -1,0 +1,157 @@
+.homepage {
+    text-align: center;
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.homepage h1 {
+    background-color: aquamarine;
+    padding: 5px 0;
+    border: 3px solid black;
+}
+
+.homepage li {
+    margin: 10px auto;
+    padding: 5px 0;
+    font-size: 25px;
+    background-color: brown;
+    color: white;
+    border-radius: 5px;
+    width: 160px;
+    border: 2px solid black;
+}
+
+.homepage a {
+    color: white;
+}
+
+.shawarma {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.shawarma #home {
+    display: block;
+    text-align: center;
+    font-size: 20px;
+    background-color: brown;
+    padding: 5px 0;
+    width: 75px;
+    border-radius: 5px;
+    border: 2px solid black;
+    margin: 0 auto;
+    color: white;
+}
+
+.shawarma img {
+    border: 3px solid brown;
+}
+
+.shawarma .desc {
+    background-color: rgba(165, 42, 42, 0.301);
+    padding: 0 5px;
+    border-radius: 5px;
+}
+
+.shawarma .ingredients {
+    background-color: rgba(165, 42, 42, 0.301);
+    padding: 0 5px;
+    border-radius: 5px;
+}
+
+.shawarma .steps {
+    background-color: rgba(165, 42, 42, 0.301);
+    padding: 0 5px;
+    border-radius: 5px;
+}
+
+.fries {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.fries #home {
+    display: block;
+    text-align: center;
+    font-size: 20px;
+    background-color: brown;
+    padding: 5px 0;
+    width: 75px;
+    border-radius: 5px;
+    border: 2px solid black;
+    margin: 0 auto;
+    color: white;
+}
+
+.fries h1 {
+    background-color: rgba(165, 42, 42, 0.301);
+    width: fit-content;
+    padding: 0 5px;
+    border-radius: 5px;
+}
+
+.fries img {
+    border: 3px solid brown;
+}
+
+.fries .desc {
+    background-color: rgba(165, 42, 42, 0.301);
+    padding: 0 5px;
+    border-radius: 5px;
+}
+
+.fries .ingredients {
+    background-color: rgba(165, 42, 42, 0.301);
+    padding: 0 5px;
+    border-radius: 5px;
+}
+
+.fries .steps {
+    background-color: rgba(165, 42, 42, 0.301);
+    padding: 0 5px;
+    border-radius: 5px;
+}
+
+.chicken {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.chicken #home {
+    display: block;
+    text-align: center;
+    font-size: 20px;
+    background-color: brown;
+    padding: 5px 0;
+    width: 75px;
+    border-radius: 5px;
+    border: 2px solid black;
+    margin: 0 auto;
+    color: white;
+}
+
+.chicken img {
+    border: 3px solid brown;
+}
+
+.chicken h1 {
+    background-color: rgba(165, 42, 42, 0.301);
+    width: fit-content;
+    padding: 0 5px;
+    border-radius: 5px;
+}
+
+.chicken .desc {
+    background-color: rgba(165, 42, 42, 0.301);
+    padding: 0 5px;
+    border-radius: 5px;
+}
+
+.chicken .ingredients {
+    background-color: rgba(165, 42, 42, 0.301);
+    padding: 0 5px;
+    border-radius: 5px;
+}
+
+.chicken .steps {
+    background-color: rgba(165, 42, 42, 0.301);
+    padding: 0 5px;
+    border-radius: 5px;
+}
